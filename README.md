@@ -1,17 +1,3 @@
-
-TODO:
-- npm install redux
-or is it
-npm install --save redux
-
-- install redux dev tools:
-  https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
-
-  
-
-
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
